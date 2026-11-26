@@ -12,3 +12,5 @@
 4. GitHub Pages публикует артефакт сборки.
 
 Адрес сайта: <https://matveydd.github.io/devops-docs/>.
+
+
