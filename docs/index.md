@@ -14,4 +14,3 @@
 Адрес сайта: <https://matveydd.github.io/devops-docs/>.
 
 
-Контрольная ссылка: [missing page](missing-page.md).
